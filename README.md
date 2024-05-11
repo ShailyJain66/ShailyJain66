@@ -3,9 +3,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width = "400"  src="https://i.giphy.com/BferOKonYOspm28AiB.webp">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailyjain66&label=Profile%20views&color=0e75b6&style=flat" alt="shailyjain66" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShailyJain66](https://github.com/ShailyJain66)
+
+- 💬 Ask me about **Data Structure and Algorithm, C & Cpp, Web Development**
 
 - 📫 How to reach me **shailyjain33900@gmail.com**
 
